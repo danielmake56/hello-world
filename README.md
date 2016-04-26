@@ -1,2 +1,4 @@
 # hello-world
-first attempt
+
+Greetings travelers.
+My greetings.
